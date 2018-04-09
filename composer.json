@@ -1,0 +1,8 @@
+{
+  "name": "booreiland/acf-pardot-forms",
+  "type": "wordpress-plugin",
+  "repositories": [{
+      "type": "vcs",
+      "url": "git@github.com:Booreiland/acf-pardot-forms.git"
+  }]
+}
